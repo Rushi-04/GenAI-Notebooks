@@ -5,3 +5,4 @@ langchain-google-genai
 streamlit
 streamlit-autorefresh   
 pydantic
+langchain-ollama
