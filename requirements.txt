@@ -2,3 +2,5 @@ langchain
 langchain-openai
 dotenv
 langchain-google-genai
+streamlit
+streamlit-autorefresh   
