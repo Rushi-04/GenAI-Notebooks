@@ -26,5 +26,3 @@ if query:
 
     st.chat_message("ai").markdown(res.content)
     st.session_state.memory.append({"role": "ai", "content": res.content})
-
-    

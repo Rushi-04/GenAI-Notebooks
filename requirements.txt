@@ -6,3 +6,4 @@ streamlit
 streamlit-autorefresh   
 pydantic
 langchain-ollama
+langchain-groq
