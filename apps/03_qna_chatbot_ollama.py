@@ -3,6 +3,7 @@ import streamlit as st
 
 llm = ChatOllama(model="gemma3:1b")
 
+st.set_page_config(page_title="Gemma Bot")
 st.title("ChatBuddy - AI Assistant at your Service.")
 st.markdown("Chatbot created using ollama.")
 
